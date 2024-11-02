@@ -1,2 +1,2 @@
 # KomunikasiFragment
-Tugas Pertemuan Mata Kuliah PPM (Pemrograman Perangkat Mobile)
+Penerapan Sederhana Komunikasi Fragment
